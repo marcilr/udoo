@@ -1,0 +1,21 @@
+README
+Created Wed Dec 12 15:07:36 AST 2018
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Filelist
+========
+build/
+  UDOO single board computer build
+
+docs/
+  Documentation
+
+links.txt
+  UDOO single board computer related links
+
+pdf/
+  Portable Document Format files
+
+udoo.txt
+  UDOO single board computer

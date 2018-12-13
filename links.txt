@@ -11,6 +11,15 @@ Links
 UDOO
 https://www.udoo.org/
 
+UDOO: Android Linux Arduino in a tiny single-board computer
+https://www.kickstarter.com/projects/udoo/udoo-android-linux-arduino-in-a-tiny-single-board?ref=category
+
+UDOO press review
+https://www.udoo.org/press-review/
+
 UDOO quad/dual
 https://www.udoo.org/udoo-dual-and-quad/
 
+UDOO - Quad Core A9, Arduino Due DIY Horsepower Maxxed Out
+by Michael Zaffuto on April 16, 2013 at 4:58am
+https://diydrones.com/profiles/blogs/udoo-quad-core-a9-arduino-due-diy-horsepower-maxxed-out

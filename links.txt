@@ -8,4 +8,9 @@ UDOO single board computer related links
 
 Links
 =====
+UDOO
+https://www.udoo.org/
+
+UDOO quad/dual
+https://www.udoo.org/udoo-dual-and-quad/
 

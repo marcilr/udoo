@@ -17,5 +17,8 @@ links.txt
 pdf/
   Portable Document Format files
 
+pics/
+  Pictures
+
 udoo.txt
   UDOO single board computer
